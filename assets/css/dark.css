@@ -3,7 +3,6 @@
 }
 
 
-
 .dark-theme a{
     color: #f79533;
 }
@@ -153,4 +152,15 @@
 .dark-theme slider{
     -webkit-filter: blur(5px) sepia(1);
     filter: blur(5px) sepia(1);
+}
+
+
+.dark-theme .up:hover{
+    border: 0.2em solid #f79533;
+    transition: 0.5s;
+}
+
+.dark-theme .bottom:hover{
+    border: 0.2em solid #f79533;
+    transition: 0.5s;
 }
