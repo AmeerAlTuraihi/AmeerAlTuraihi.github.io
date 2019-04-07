@@ -88,6 +88,12 @@ a:hover{
     text-align: center;
     margin-top: 100px;
 }
+
+.bottom:hover{
+    border: 0.2em solid #246c9c;
+    transition: 0.5s;
+}
+
 /* End Arrow */
 
 /* End Section 1 */ 
@@ -350,6 +356,13 @@ textarea::-webkit-input-placeholder{
 #arrow_up{
     text-align: center;
 }
+
+.up:hover{
+    border: 0.2em solid #246c9c;
+    transition: 0.5s;
+}
+
+
 /* End Arrow */
 
 #copyright{
@@ -386,7 +399,16 @@ textarea::-webkit-input-placeholder{
 }
 
 #socloc{
-    padding-right: 20px;
+    padding-right: 20px;    
+}
+
+
+@media only screen and (max-width: 450px) {
+
+    #social{
+        width: 30%;
+    }
+
 }
 
 
