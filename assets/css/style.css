@@ -15,12 +15,13 @@ html, body{
 
 /* End Universal */
 
-/* Nav */
+/* Apple Dark Mode */
 
+:root{
+    color-scheme: light dark;   
+}
 
-
-/* End Nav */
-
+/* End Apple Dark Mode */
 
 
 /* Section 1 */ 
