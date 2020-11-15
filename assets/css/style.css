@@ -205,6 +205,10 @@ a:hover{
         height: 600px;
     }
 
+    #section4{
+        height: 600px;
+    }
+
 }
 
 
@@ -215,6 +219,11 @@ a:hover{
         height: 600px;
     }
 
+    #section4{
+        height: 650px;
+    }
+
+
 }
 
 @media only screen and (max-width: 550px) {
@@ -222,6 +231,11 @@ a:hover{
     #section5{
         height: 750px;
     }
+
+    #section4{
+        height: 750px;
+    }
+
 
 }
 
@@ -231,6 +245,11 @@ a:hover{
         height: 850px;
     }
 
+    #section4{
+        height: 850px;
+    }
+
+
 }
 
 @media only screen and (max-width: 400px) {
@@ -238,6 +257,11 @@ a:hover{
     #section5{
         height: 950px;
     }
+
+    #section4{
+        height: 950px;
+    }
+
 
 }
 /* End Section 5 */
